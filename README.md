@@ -5,10 +5,13 @@
 - 🤔 I’m looking for help with harnessing my coding and soft skills
 - 📫 How to reach me: instagram: https://www.instagram.com/tushaan_soi/ 
 - 😄 Pronouns: he/him
+-
+-
+
 
 
 - Currently Playing 
-- 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=64w97hyp05x5ttx3og1c8ijw5&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=false&bar_color=f71871)](https://spotify-github-profile.vercel.app/api/view?uid=64w97hyp05x5ttx3og1c8ijw5&redirect=true)
 
 

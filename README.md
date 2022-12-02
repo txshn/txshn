@@ -10,6 +10,6 @@
 
 ![Tushaan's GitHub stats]
 <a href="https://github.com/txshn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txshn&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txshn&repo=github-readme-stats&theme=dracula" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txshn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
